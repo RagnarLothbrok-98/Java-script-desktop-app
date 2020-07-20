@@ -1,0 +1,12 @@
+{
+  "name": "IDHAYAM_Simulator",
+  "version": "1.0.0",
+  "description": "Open source cardio vascular simulator",
+  "main": "main.js",
+  "scripts": {
+                "start": "electron ."
+              },
+  "author": "Arvindh & Praveen",
+  "license": "IIT",
+  "dependencies": {"electron": "^6.14.6"}
+}
